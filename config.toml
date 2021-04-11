@@ -1,0 +1,8 @@
+baseURL = "https://yuzulia.com/"
+languageCode = "ja"
+title = "Yuzulia"
+theme = "base16"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
