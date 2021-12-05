@@ -2,6 +2,7 @@ baseURL = "https://yuzulia.com/"
 languageCode = "ja"
 title = "Yuzulia"
 theme = "base16"
+defaultContentLanguage = "ja"
 
 [taxonomies]
     tag = "tags"
